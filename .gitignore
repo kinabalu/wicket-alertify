@@ -1,4 +1,5 @@
 *.class
+target
 
 # Package Files #
 *.jar
@@ -8,3 +9,4 @@
 
 # IDEA files
 *.iml
+*.idea
